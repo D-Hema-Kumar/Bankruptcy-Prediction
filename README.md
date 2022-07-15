@@ -8,11 +8,11 @@ The flow of the project follows 3 experimental settings and is as below:
 
 - Reading the data in arff files.
 - Target variable distribution analysis .
-Basic data exploration.
-Missing values treatment.
-Sampling (SMOTE & random), scaling and K-fold cross validation.
-Application of multiple classification algorithms based on different time horizons.
-Comparision of Recall scores on testing datasets.
-Result discussion.
+- Basic data exploration.
+- Missing values treatment.
+- Sampling (SMOTE & random), scaling and K-fold cross validation.
+- Application of multiple classification algorithms based on different time horizons.
+- Comparision of Recall scores on testing datasets.
+- Result discussion.
 Notebook runtime:
 Dataset link : https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data#
