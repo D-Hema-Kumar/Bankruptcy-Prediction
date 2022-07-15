@@ -6,7 +6,7 @@ The notebook uses multiple machine learning algortithms such as Logistic regress
 
 The flow of the project follows 3 experimental settings and is as below:
 
-Markup : -Reading the data in arff files.
+- Reading the data in arff files.
 Target variable distribution analysis .
 Basic data exploration.
 Missing values treatment.
