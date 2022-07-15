@@ -14,5 +14,7 @@ The flow of the project follows 3 experimental settings and is as below:
 - Application of multiple classification algorithms based on different time horizons.
 - Comparision of Recall scores on testing datasets.
 - Result discussion.
+<br>
 Notebook runtime:
+<br>
 Dataset link : https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data#
